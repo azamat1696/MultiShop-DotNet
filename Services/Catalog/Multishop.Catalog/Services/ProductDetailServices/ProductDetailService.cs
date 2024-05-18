@@ -11,7 +11,6 @@ public class ProductDetailService : IProductDetailService
 {
     private readonly IMapper _mapper;
     private readonly IMongoCollection<ProductDetail> _productDetailCollection;
-
     public ProductDetailService(IMapper mapper, IDatabaseSettings _databaseSettings)
     {
         var client = new MongoClient(_databaseSettings.ConnectionString);
