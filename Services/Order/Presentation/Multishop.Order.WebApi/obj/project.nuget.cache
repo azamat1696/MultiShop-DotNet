@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQ4s6x0b4kouaGP99pIABvmsxSiPmHP2+eJmYB7/ms0Ag1dxSG7hiocosoytz5z+QxMYTomq6CaCHs8mK2SoHA==",
+  "success": true,
+  "projectFilePath": "/Users/azamatyadygerov/Documents/Multishop/Services/Order/Presentation/Multishop.Order.WebApi/Multishop.Order.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/azamatyadygerov/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/azamatyadygerov/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/azamatyadygerov/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/azamatyadygerov/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/azamatyadygerov/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/azamatyadygerov/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
